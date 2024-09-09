@@ -41,16 +41,8 @@ export const navLinks = [
 
 export const projects = [
     {
-        name: 'Shopping Website!',
-        id:1,
-        paragraph: 'It is an online platform that allows to user can shop from the products that the website has. The project is only a demo so you can check the working parts which are the shopping card and user login and sign-up screens.',
-        url: '/assets/project1.png',
-        urlgit: "https://github.com/34atmaca18/shoppingWebsite",
-        livedemo: "",
-    },
-    {
         name: 'Nike App!',
-        id:2,
+        id:1,
         paragraph: 'Design is belongs to JavaScript Mastery on Youtube but the whole designing code belongs to me. I used the assets file and index.js file to bring the project`s pngs, icons, lists. Modern looking Nike website!',
         url: '/assets/project2.png',
         urlgit: "https://github.com/34atmaca18/nikeApp",
@@ -58,11 +50,19 @@ export const projects = [
     },
     {
         name: 'Cryptosan!',
-        id:3,
+        id:2,
         paragraph: 'I built a cryptocurrency tracking platform using React,Tailwind CSS that displays real-time data from the CoinGecko API. Users can view current prices, market caps, and other details for various cryptocurrencies in a simple, user-friendly interface.',
         url: '/assets/project3.png',
         urlgit: "https://github.com/aydoganuyanikoglu/cryptosan",
         livedemo: "https://cryptosann.netlify.app"
+    },
+    {
+        name: 'Horse Racing App!',
+        id:3,
+        paragraph: 'I developed a horse racing app using Vue.js and Vue CLI. The app allows users to view real-time race information, track horses, and see race results. ',
+        url: '/assets/project6.png',
+        urlgit: "https://github.com/aydoganuyanikoglu/insiderRacingApp",
+        livedemo: "https://aydoganhorseracing.netlify.app"
     },
     {
         name: 'NeoflemaTV!',
