@@ -16,11 +16,11 @@ module.exports = {
       xs: "480px",
       ss: "650px",
       sm: "768px",
-      md: "1060px",
-      mdp: "1200px",
-      lg: "1470px",
+      md: "1200px",
+      mdp: "1320px",
+      lg: "1570px",
       xl: "1700px",
-    }
+    },
   },
   plugins: [],
 };
